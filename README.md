@@ -14,7 +14,7 @@ pip install -r requirements.txt
 First run the server script with:
 ```
 Linux/Mac
-pyhton3 server.py
+python3 server.py
 
 Windows:
 python server.py
@@ -23,7 +23,7 @@ python server.py
 Run the main script on 2 different terminal sessions or 2 computers on the same network
 ```
 Linux/Mac
-pyhton3 main.py
+python3 main.py
 
 Windows:
 python main.py
