@@ -2,7 +2,7 @@ import pygame
 from network import Network
 from game_objects import Paddle, Ball
 
-WIDTH, HEIGHT = 1920, 1080
+WIDTH, HEIGHT = 800, 600
 FPS = 60
 WHITE = (255, 255, 255)
 BLACK = (0, 0, 0)

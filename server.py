@@ -5,7 +5,7 @@ from game_objects import Paddle, Ball
 import pickle
 
 NO_OF_CLIENTS = 2
-WIDTH, HEIGHT = 1920, 1080
+WIDTH, HEIGHT = 800, 600
 PADDLE_WIDTH, PADDLE_HEIGHT = 20, 200
 RADIUS = 12
 paddles = [
